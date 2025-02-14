@@ -2,7 +2,6 @@ import io, requests, json
 
 packageNames = json.loads(io.open("input.example.json", "r").read())
 
-not_found = []
 
 def check(packageName):
   try:
@@ -17,11 +16,9 @@ def check(packageName):
     #   print(f"Downloaded : {packageName}")
   except:
     print(f"Error when fetching : {packageName}")
-    not_found.append(packageName)
-    io.open("not_found.json", "w").write(json.dumps(not_found))
 
 from joblib import Parallel, delayed
 
-Parallel(n_jobs=12)(delayed(check)(packageName) for packageName in packageNames)
+Parallel(n_jobs=32)(delayed(check)(packageName) for packageName in packageNames)
 
 print("Done")
