@@ -1,0 +1,1304 @@
+[
+  {
+    "title": "KeePassDX - FOSS Password Safe",
+    "summary": "Secure open-source password safe and manager",
+    "apk_download_url": "https://f-droid.org/repo/com.kunzisoft.keepass.libre_133.apk",
+    "code_source_url": "https://github.com/Kunzisoft/KeePassDX",
+    "codes": [
+      "Kotlin",
+      "C",
+      "Java",
+      "Assembly",
+      "C++",
+      "Ruby"
+    ]
+  },
+  {
+    "title": "Bura",
+    "summary": "Modern weather app with graphs and thoughtful data visualization",
+    "apk_download_url": "https://f-droid.org/repo/com.davidtakac.bura_16.apk",
+    "code_source_url": "https://github.com/davidtakac/bura/",
+    "codes": [
+      "Kotlin"
+    ]
+  },
+  {
+    "title": "Cooper",
+    "summary": "远程文件编辑",
+    "apk_download_url": "https://f-droid.org/repo/com.dconstructing.cooper_2.apk",
+    "code_source_url": "https://github.com/losttime/cooper",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Decred Address Scanner",
+    "summary": "Scans Decred addresses for available funds and notifies of changes.",
+    "apk_download_url": "https://f-droid.org/repo/com.decred.decredaddressscanner_10.apk",
+    "code_source_url": "https://github.com/decred/dcraddrscanner",
+    "codes": [
+      "Kotlin"
+    ]
+  },
+  {
+    "title": "Scrunch",
+    "summary": "Play sounds whenever you fold or unfold your Galaxy Z Fold.",
+    "apk_download_url": "https://f-droid.org/repo/com.denytheflowerpot.scrunch_3.apk",
+    "code_source_url": "https://github.com/DenyTheFlowerpot/Scrunch",
+    "codes": [
+      "Kotlin",
+      "Ruby"
+    ]
+  },
+  {
+    "title": "MMRL",
+    "summary": "Introducing MMRL - the ultimate manager for Magisk, KernelSU, and APatch.",
+    "apk_download_url": "https://f-droid.org/repo/com.dergoogler.mmrl_32432.apk",
+    "code_source_url": "https://github.com/DerGoogler/MMRL",
+    "codes": [
+      "Kotlin",
+      "JavaScript",
+      "Other"
+    ]
+  },
+  {
+    "title": "Thumb-Key",
+    "summary": "A privacy-conscious keyboard made for your thumbs.",
+    "apk_download_url": "https://f-droid.org/repo/com.dessalines.thumbkey_135.apk",
+    "code_source_url": "https://github.com/dessalines/thumb-key",
+    "codes": [
+      "Kotlin"
+    ]
+  },
+  {
+    "title": "Tempus Romanum",
+    "summary": "带小部件的拉丁文日期生成器",
+    "apk_download_url": "https://f-droid.org/repo/com.dev.xavier.tempusromanum_251.apk",
+    "code_source_url": "https://github.com/xavierfreyburger/tempus-romanum",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "MotionEye Client for Android",
+    "summary": "",
+    "apk_download_url": "https://f-droid.org/repo/com.developerfromjokela.motioneyeclient_10000008.apk",
+    "code_source_url": "https://github.com/developerfromjokela/motioneye-client",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Nomad - Hubzilla for Android",
+    "summary": "这是分布式社交网络 Hubzilla 的非官方客户端",
+    "apk_download_url": "https://f-droid.org/repo/com.dfa.hubzilla_android_46.apk",
+    "code_source_url": "https://framagit.org/disroot/AndHub"
+  },
+  {
+    "title": "MorphClock",
+    "summary": "床头时钟",
+    "apk_download_url": "https://f-droid.org/repo/com.dgmltn.morphclock.app_2.apk",
+    "code_source_url": "https://github.com/dgmltn/android-MorphClock",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Bookland",
+    "summary": "Bookland is an android app where you can track all of your book readings.",
+    "apk_download_url": "https://f-droid.org/repo/com.dhaval.bookland_1.apk",
+    "code_source_url": "https://github.com/dhvl5/Bookland",
+    "codes": [
+      "Kotlin"
+    ]
+  },
+  {
+    "title": "Full colemak",
+    "summary": "Keyboard with International Colemak layout",
+    "apk_download_url": "https://f-droid.org/repo/com.diblui.fullcolemak_1.apk",
+    "code_source_url": "https://github.com/diblui/fullcolemak",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "OpenShift",
+    "summary": "调整屏幕颜色值",
+    "apk_download_url": "https://f-droid.org/repo/com.digitalfishfun.openshift_1.apk",
+    "code_source_url": "https://github.com/LibreShift/OpenShift",
+    "codes": [
+      "Java",
+      "Shell"
+    ]
+  },
+  {
+    "title": "Audio Recorder",
+    "summary": "提供简单的录音体验",
+    "apk_download_url": "https://f-droid.org/repo/com.dimowner.audiorecorder_935.apk",
+    "code_source_url": "https://github.com/Dimowner/AudioRecorder",
+    "codes": [
+      "Java",
+      "Kotlin"
+    ]
+  },
+  {
+    "title": "Shaarlier",
+    "summary": "在 Shaarli 上分享链接",
+    "apk_download_url": "https://f-droid.org/repo/com.dimtion.shaarlier_33.apk",
+    "code_source_url": "https://github.com/dimtion/Shaarlier",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Wa-Tor",
+    "summary": "简单的人口动态模拟器",
+    "apk_download_url": "https://f-droid.org/repo/com.dirkgassen.wator_1002000.apk",
+    "code_source_url": "https://github.com/aperifons/Wa-Tor",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Open WiFi Cleaner",
+    "summary": "忘记开放接入点",
+    "apk_download_url": "https://f-droid.org/repo/com.dje.openwifinetworkremover_27.apk",
+    "code_source_url": "https://github.com/duncanje/android-open-wifi-network-remover",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Chip8",
+    "summary": "Chip8 仿真器",
+    "apk_download_url": "https://f-droid.org/repo/com.dkanada.chip_2.apk",
+    "code_source_url": "https://github.com/dkanada/chip-emulator",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Gelli",
+    "summary": "Native music player for Jellyfin",
+    "apk_download_url": "https://f-droid.org/repo/com.dkanada.gramophone_18.apk",
+    "code_source_url": "https://github.com/dkanada/gelli",
+    "codes": [
+      "Java",
+      "Kotlin"
+    ]
+  },
+  {
+    "title": "MobileWebCam",
+    "summary": "简单的网络摄像头",
+    "apk_download_url": "https://f-droid.org/repo/com.dngames.mobilewebcam_118.apk",
+    "code_source_url": "https://github.com/dngames/mobilewebcam-android",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Arcticons",
+    "summary": "A monotone line-based icon pack for dark themed setups.",
+    "apk_download_url": "https://f-droid.org/repo/com.donnnno.arcticons_1430.apk",
+    "code_source_url": "https://github.com/Donnnno/Arcticons",
+    "codes": [
+      "Java",
+      "Python",
+      "Shell"
+    ]
+  },
+  {
+    "title": "Arcticons Day & Night",
+    "summary": "A monotone line-based icon pack for dark & light themed setups.",
+    "apk_download_url": "https://f-droid.org/repo/com.donnnno.arcticons.daynight_1430.apk",
+    "code_source_url": "https://github.com/Donnnno/Arcticons",
+    "codes": [
+      "Java",
+      "Python",
+      "Shell"
+    ]
+  },
+  {
+    "title": "Arcticons Black",
+    "summary": "A monotone line-based icon pack for light themed setups.",
+    "apk_download_url": "https://f-droid.org/repo/com.donnnno.arcticons.light_1430.apk",
+    "code_source_url": "https://github.com/Donnnno/Arcticons",
+    "codes": [
+      "Java",
+      "Python",
+      "Shell"
+    ]
+  },
+  {
+    "title": "Arcticons Material You",
+    "summary": "A line-based icon pack with a Material You color palette.",
+    "apk_download_url": "https://f-droid.org/repo/com.donnnno.arcticons.you_1430.apk",
+    "code_source_url": "https://github.com/Donnnno/Arcticons",
+    "codes": [
+      "Java",
+      "Python",
+      "Shell"
+    ]
+  },
+  {
+    "title": "Clock31",
+    "summary": "Clock + Calendar combo widget for Android",
+    "apk_download_url": "https://f-droid.org/repo/com.dosse.clock31_5.apk",
+    "code_source_url": "https://github.com/adolfintel/Clock31",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "DozeOff",
+    "summary": "Disable Doze on your rooted Android device",
+    "apk_download_url": "https://f-droid.org/repo/com.dosse.dozeoff_3.apk",
+    "code_source_url": "https://github.com/adolfintel/DozeOff",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "CamTimer",
+    "summary": "相机定时器",
+    "apk_download_url": "https://f-droid.org/repo/com.dozingcatsoftware.cameratimer_6.apk",
+    "code_source_url": "https://github.com/dozingcat/CamTimer",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Dodge",
+    "summary": "Guide a ball to safety avoiding swarms of enemies.",
+    "apk_download_url": "https://f-droid.org/repo/com.dozingcatsoftware.dodge_10.apk",
+    "code_source_url": "https://github.com/dozingcat/dodge-android",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Vector Camera",
+    "summary": "将实时效果应用于相机输入的应用",
+    "apk_download_url": "https://f-droid.org/repo/com.dozingcatsoftware.vectorcamera_14.apk",
+    "code_source_url": "https://github.com/dozingcat/VectorCamera",
+    "codes": [
+      "Java",
+      "Kotlin",
+      "HTML",
+      "Other"
+    ]
+  },
+  {
+    "title": "Logcat Reader",
+    "summary": "查看日志的简单应用",
+    "apk_download_url": "https://f-droid.org/repo/com.dp.logcatapp_33.apk",
+    "code_source_url": "https://github.com/darshanparajuli/LogcatReader",
+    "codes": [
+      "Kotlin",
+      "Java"
+    ]
+  },
+  {
+    "title": "ColorBlendr",
+    "summary": "Express yourself with colors",
+    "apk_download_url": "https://f-droid.org/repo/com.drdisagree.colorblendr_23.apk",
+    "code_source_url": "https://github.com/Mahmud0808/ColorBlendr",
+    "codes": [
+      "Java",
+      "Kotlin",
+      "AIDL"
+    ]
+  },
+  {
+    "title": "USB-Dataloggerreader",
+    "summary": "Interface to USB dataloggers.",
+    "apk_download_url": "https://f-droid.org/repo/com.drhoffmannstoolsdataloggerreader_59.apk",
+    "code_source_url": "https://codeberg.org/kollo/USBDataloggerreader-Android"
+  },
+  {
+    "title": "RingyDingyDingy",
+    "summary": "远程铃和锁",
+    "apk_download_url": "https://f-droid.org/repo/com.dririan.RingyDingyDingy_705.apk",
+    "code_source_url": "https://github.com/dririan/ringydingydingy",
+    "codes": [
+      "Java",
+      "Perl"
+    ]
+  },
+  {
+    "title": "Avare",
+    "summary": "航空地图",
+    "apk_download_url": "https://f-droid.org/repo/com.ds.avare_402.apk",
+    "code_source_url": "https://github.com/apps4av/avare",
+    "codes": [
+      "Java",
+      "HTML",
+      "Python",
+      "Perl",
+      "Shell",
+      "Makefile",
+      "GLSL"
+    ]
+  },
+  {
+    "title": "BmiCalc",
+    "summary": "BmiCalc 是一款用于计算身体质量指数（BMI）的软件。",
+    "apk_download_url": "https://f-droid.org/repo/com.ei.bmicalc_1.apk",
+    "code_source_url": "https://sourceforge.net/p/androidbmicalc/code/ci/master/tree/"
+  },
+  {
+    "title": "Red Dot",
+    "summary": "对时间作出反应的有趣的动画点",
+    "apk_download_url": "https://f-droid.org/repo/com.eibriel.reddot_3.apk",
+    "code_source_url": "https://github.com/Eibriel/RedDot",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Theia Icon Theme",
+    "summary": "图标主题",
+    "apk_download_url": "https://f-droid.org/repo/com.elementarytoday.theia_6.apk",
+    "code_source_url": "https://github.com/varlesh/theia-icon-theme",
+    "codes": [
+      "CSS",
+      "HTML"
+    ]
+  },
+  {
+    "title": "Autostarts - Block apps from starting automaticall",
+    "summary": "查看启动时启动的内容",
+    "apk_download_url": "https://f-droid.org/repo/com.elsdoerfer.android.autostarts_33.apk",
+    "code_source_url": "https://github.com/miracle2k/android-autostarts",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Current Wallpaper",
+    "summary": "单独显示壁纸",
+    "apk_download_url": "https://f-droid.org/repo/com.elsewhat.android.currentwallpaper_2.apk",
+    "code_source_url": "https://github.com/elsewhat/com.elsewhat.android.currentwallpaper",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "UUID 0xFD6F Scanner",
+    "summary": "Scan for BluetoothLE Beacons with UUID 0xFD6F",
+    "apk_download_url": "https://f-droid.org/repo/com.emacberry.uuid0xfd6fscan_9117.apk",
+    "code_source_url": "https://github.com/marq24/UUID0xFD6FTracer",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Clean Status Bar",
+    "summary": "在截屏前整理状态栏",
+    "apk_download_url": "https://f-droid.org/repo/com.emmaguy.cleanstatusbar_18.apk",
+    "code_source_url": "https://github.com/emmaguy/clean-status-bar",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Its Dicey!",
+    "summary": "Randomly select between friends.",
+    "apk_download_url": "https://f-droid.org/repo/com.emmanuelmess.itsdicey_2.apk",
+    "code_source_url": "https://github.com/EmmanuelMess/ItsDicey",
+    "codes": [
+      "Kotlin"
+    ]
+  },
+  {
+    "title": "Simple Accounting",
+    "summary": "轻松管理您的资金",
+    "apk_download_url": "https://f-droid.org/repo/com.emmanuelmess.simpleaccounting_23.apk",
+    "code_source_url": "https://github.com/EmmanuelMess/Simple-Accounting",
+    "codes": [
+      "Java",
+      "Kotlin"
+    ]
+  },
+  {
+    "title": "Simple Cleanup",
+    "summary": "一键清除不需要的文件",
+    "apk_download_url": "https://f-droid.org/repo/com.emmanuelmess.simplecleanup_4.apk",
+    "code_source_url": "https://github.com/EmmanuelMess/Simple-Cleanup",
+    "codes": [
+      "Kotlin"
+    ]
+  },
+  {
+    "title": "Dots & Squares",
+    "summary": "双人休闲游戏",
+    "apk_download_url": "https://f-droid.org/repo/com.endeepak.dotsnsquares_5.apk",
+    "code_source_url": "https://github.com/endeepak/dotsnsquares",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "HexColorTime Wallpaper",
+    "summary": "根据时间的十六进制值设置壁纸颜色",
+    "apk_download_url": "https://f-droid.org/repo/com.eneko.hexcolortimewallpaper_2.apk",
+    "code_source_url": "https://github.com/urtxintxa/HexColorTime",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Om",
+    "summary": "谨慎冥想增加情商",
+    "apk_download_url": "https://f-droid.org/repo/com.enjoyingfoss.om_1.apk",
+    "code_source_url": "https://gitlab.com/enjoyingfoss/om"
+  },
+  {
+    "title": "FileManagerSphere",
+    "summary": "Make organizing, navigating and manipulating documents and media more efficient",
+    "apk_download_url": "https://f-droid.org/repo/com.etb.filemanager_3.apk",
+    "code_source_url": "https://github.com/Ruan625Br/FileManagerSphere",
+    "codes": [
+      "Kotlin",
+      "Java"
+    ]
+  },
+  {
+    "title": "Euro konverter",
+    "summary": "Calculator for converting Croatian kunas into euros at a fixed exchange rate",
+    "apk_download_url": "https://f-droid.org/repo/com.eurokonverter_8.apk",
+    "code_source_url": "https://github.com/vbresan/eurokonverter",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Mileage",
+    "summary": "里程跟踪器",
+    "apk_download_url": "https://f-droid.org/repo/com.evancharlton.mileage_3110.apk",
+    "code_source_url": "https://github.com/evancharlton/android-mileage",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Eve-control",
+    "summary": "控制 eVenement 实例",
+    "apk_download_url": "https://f-droid.org/repo/com.evenement.encapsulation_3.apk",
+    "code_source_url": "https://github.com/e-venement/eve-control",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "AutoAnswer",
+    "summary": "自动应答电话呼叫",
+    "apk_download_url": "https://f-droid.org/repo/com.everysoft.autoanswer_6.apk",
+    "code_source_url": "https://archive.softwareheritage.org/browse/origin/http://auto-answer.googlecode.com/svn//directory/"
+  },
+  {
+    "title": "Evil Insult Generator",
+    "summary": "这是供您使用的最优秀的侮辱生成器应用！",
+    "apk_download_url": "https://f-droid.org/repo/com.evilinsult_43.apk",
+    "code_source_url": "https://github.com/EvilInsultGenerator/android-app",
+    "codes": [
+      "Kotlin",
+      "Shell"
+    ]
+  },
+  {
+    "title": "TTime",
+    "summary": "Android app to calculate transfer time, data quantity and bandwidth",
+    "apk_download_url": "https://f-droid.org/repo/com.example.TTime_3.apk",
+    "code_source_url": "https://github.com/ClemPera/TTime/",
+    "codes": [
+      "Kotlin",
+      "Ruby"
+    ]
+  },
+  {
+    "title": "LCARS Wallpapers",
+    "summary": "星际迷航风格背景",
+    "apk_download_url": "https://f-droid.org/repo/com.example.android.maxpapers_46.apk",
+    "code_source_url": "https://archive.softwareheritage.org/browse/origin/http://lcarswallpaper.googlecode.com/svn//directory/"
+  },
+  {
+    "title": "Month Calendar Widget",
+    "summary": "日历微件",
+    "apk_download_url": "https://f-droid.org/repo/com.example.android.monthcalendarwidget_1.apk",
+    "code_source_url": "https://github.com/romannurik/Android-MonthCalendarWidget",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Any Cut",
+    "summary": "为任何内容创建快捷方式",
+    "apk_download_url": "https://f-droid.org/repo/com.example.anycut_5.apk",
+    "code_source_url": "https://code.google.com/p/apps-for-android/source"
+  },
+  {
+    "title": "QR & Barcode Scanner",
+    "summary": "QR and barcode scanner with all the features you need.",
+    "apk_download_url": "https://f-droid.org/repo/com.example.barcodescanner_13.apk",
+    "code_source_url": "https://github.com/wewewe718/QrAndBarcodeScanner",
+    "codes": [
+      "Kotlin"
+    ]
+  },
+  {
+    "title": "Book Listing App",
+    "summary": "A simple app which lists all books from Google Books API",
+    "apk_download_url": "https://f-droid.org/repo/com.example.booklistingapk_2.apk",
+    "code_source_url": "https://github.com/Darshpreet2000/BookListingApp",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "DeepL",
+    "summary": "Unofficial Android App for DeepL Translator",
+    "apk_download_url": "https://f-droid.org/repo/com.example.deeplviewer_41.apk",
+    "code_source_url": "https://github.com/sakusaku3939/DeepLAndroid",
+    "codes": [
+      "Kotlin",
+      "JavaScript",
+      "Ruby",
+      "HTML"
+    ]
+  },
+  {
+    "title": "Dozenal Clock",
+    "summary": "A dozenal (duodecimal, or base-twelve) clock and homescreen/lockscreen widget.",
+    "apk_download_url": "https://f-droid.org/repo/com.example.dozenalclock_2.apk",
+    "code_source_url": "https://gitlab.com/dgoodmaniii/android_DozenalClock/tree/HEAD"
+  },
+  {
+    "title": "DozenCalc",
+    "summary": "十二进制计算器",
+    "apk_download_url": "https://f-droid.org/repo/com.example.dozencalc_1.apk",
+    "code_source_url": "https://gitlab.com/dgoodmaniii/dozencalc/tree/HEAD"
+  },
+  {
+    "title": "Cardboard Museum",
+    "summary": "使用 Danbooru 定时更换壁纸",
+    "apk_download_url": "https://f-droid.org/repo/com.example.forgottenumbrella.cardboardmuseum_18.apk",
+    "code_source_url": "https://gitlab.com/ForgottenUmbrella/cardboardmuseum"
+  },
+  {
+    "title": "Librery",
+    "summary": "管理你的电子书",
+    "apk_download_url": "https://f-droid.org/repo/com.example.harisont.librery_4.apk",
+    "code_source_url": "https://gitlab.com/harisont/Librery"
+  },
+  {
+    "title": "NextCompanion",
+    "summary": "Nextbike 野生客户端（非官方）",
+    "apk_download_url": "https://f-droid.org/repo/com.example.hochi.nextcompanion_9.apk",
+    "code_source_url": "https://github.com/h0chi/next-companion",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "DownloadFilesWeb",
+    "summary": "下载网站中引用的文件",
+    "apk_download_url": "https://f-droid.org/repo/com.example.ismael.downloadfilesweb_1.apk",
+    "code_source_url": "https://gitlab.com/ismo/DownloadFilesWeb/tree/HEAD"
+  },
+  {
+    "title": "Kotlin Quiz",
+    "summary": "Quiz taking application about kotilin",
+    "apk_download_url": "https://f-droid.org/repo/com.example.kotlinquiz_1.apk",
+    "code_source_url": "https://github.com/NiranjanNlc/Kotilin-Quiz",
+    "codes": [
+      "Kotlin",
+      "Java"
+    ]
+  },
+  {
+    "title": "NASA APOD for Muzei",
+    "summary": "用于 Muzei 的 NASA 当天天文图片",
+    "apk_download_url": "https://f-droid.org/repo/com.example.muzei.muzeiapod_5.apk",
+    "code_source_url": "https://github.com/igoralmeida/muzei-apod",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Alertly",
+    "summary": "Get notified only of important notifications.",
+    "apk_download_url": "https://f-droid.org/repo/com.example.notificationalerter_2.apk",
+    "code_source_url": "https://github.com/lightningcpu/Alertly",
+    "codes": [
+      "Kotlin"
+    ]
+  },
+  {
+    "title": "OpenPass",
+    "summary": "SafeNet MobilePass 的重新实现",
+    "apk_download_url": "https://f-droid.org/repo/com.example.openpass_1.apk",
+    "code_source_url": "https://github.com/ars3niy/openpass",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Poleidoscope",
+    "summary": "A kaleidoscope based on complex polynomials. Trippy.",
+    "apk_download_url": "https://f-droid.org/repo/com.example.poleidoscope_1.apk",
+    "code_source_url": "https://gitlab.com/bowl1/poleidoscope"
+  },
+  {
+    "title": "RegisCat",
+    "summary": "RegisCat is a map of surveillance cameras in Chile",
+    "apk_download_url": "https://f-droid.org/repo/com.example.regis_cat_1.apk",
+    "code_source_url": "https://gitlab.com/jilguerillo/regiscat"
+  },
+  {
+    "title": "Analytical Translator",
+    "summary": "自然语言翻译",
+    "apk_download_url": "https://f-droid.org/repo/com.example.root.analyticaltranslator_6.apk",
+    "code_source_url": "https://archive.softwareheritage.org/browse/origin/https://github.com/xpheres/AndroidAnalyticalTranslator/directory/"
+  },
+  {
+    "title": "DékaDico",
+    "summary": "Spoken numbers memory trainer",
+    "apk_download_url": "https://f-droid.org/repo/com.example.spokennumbers_10.apk",
+    "code_source_url": "https://github.com/vivekthazhathattil/dekadico",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "MiniDlnaOmatic",
+    "summary": "通过 SSH 管理 miniDLNA 服务",
+    "apk_download_url": "https://f-droid.org/repo/com.example.sshtry_1.apk",
+    "code_source_url": "https://bitbucket.org/rrbarrero/minidlnaomatic/src"
+  },
+  {
+    "title": "Eddy Malou",
+    "summary": "Eddy Malou 音板",
+    "apk_download_url": "https://f-droid.org/repo/com.f0x.eddymalou_2.apk",
+    "code_source_url": "https://github.com/F0x06/EddyMalou",
+    "codes": [
+      "unknown"
+    ]
+  },
+  {
+    "title": "LogFox",
+    "summary": "又一款安卓版 LogCat 阅读器",
+    "apk_download_url": "https://f-droid.org/repo/com.f0x1d.logfox_66.apk",
+    "code_source_url": "https://github.com/F0x1d/LogFox",
+    "codes": [
+      "Kotlin",
+      "AIDL"
+    ]
+  },
+  {
+    "title": "Dokuwiki Android",
+    "summary": "在本地访问您的 dokuwiki",
+    "apk_download_url": "https://f-droid.org/repo/com.fabienli.dokuwiki_76.apk",
+    "code_source_url": "https://github.com/fabienli/DokuwikiAndroid",
+    "codes": [
+      "Java",
+      "CSS"
+    ]
+  },
+  {
+    "title": "Diaguard: Diabetes Diary",
+    "summary": "Diabetes diary and food database",
+    "apk_download_url": "https://f-droid.org/repo/com.faltenreich.diaguard_62.apk",
+    "code_source_url": "https://github.com/Faltenreich/Diaguard",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "SecondScreen",
+    "summary": "更好的屏幕镜像",
+    "apk_download_url": "https://f-droid.org/repo/com.farmerbb.secondscreen.free_186.apk",
+    "code_source_url": "https://github.com/farmerbb/SecondScreen",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Taskbar",
+    "summary": "使用开始菜单访问应用",
+    "apk_download_url": "https://f-droid.org/repo/com.farmerbb.taskbar_208.apk",
+    "code_source_url": "https://github.com/farmerbb/Taskbar",
+    "codes": [
+      "Java",
+      "Kotlin",
+      "Makefile"
+    ]
+  },
+  {
+    "title": "RGB Tool",
+    "summary": "获取颜色的 RGB 和 HEX 值",
+    "apk_download_url": "https://f-droid.org/repo/com.fastebro.androidrgbtool_12.apk",
+    "code_source_url": "https://github.com/fasteque/rgb-tool",
+    "codes": [
+      "Java",
+      "Kotlin"
+    ]
+  },
+  {
+    "title": "FediPhoto-Lineage",
+    "summary": "FediPhoto-Lineage - 快速将照片发布到 Fediverse。",
+    "apk_download_url": "https://f-droid.org/repo/com.fediphoto.lineage_74.apk",
+    "code_source_url": "https://codeberg.org/silkevicious/fediphoto-lineage.git"
+  },
+  {
+    "title": "MSnake",
+    "summary": "经典蛇游戏",
+    "apk_download_url": "https://f-droid.org/repo/com.fgrim.msnake_12.apk",
+    "code_source_url": "https://gitlab.com/f-droid-mirrors/msnake"
+  },
+  {
+    "title": "Signal From Mars",
+    "summary": "互动故事",
+    "apk_download_url": "https://f-droid.org/repo/com.fisheradelakin.interactivestory_1.apk",
+    "code_source_url": "https://github.com/fadelakin/SFM",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Subz",
+    "summary": "Subscription and contract management with notification function.",
+    "apk_download_url": "https://f-droid.org/repo/com.flasskamp.subz_4.apk",
+    "code_source_url": "https://codeberg.org/epinez/Subz/"
+  },
+  {
+    "title": "Broccoli: 食谱应用",
+    "summary": "食谱收藏，烹饪助理，季节性日历。",
+    "apk_download_url": "https://f-droid.org/repo/com.flauschcode.broccoli_1030100.apk",
+    "code_source_url": "https://github.com/flauschtrud/broccoli",
+    "codes": [
+      "Java",
+      "Python"
+    ]
+  },
+  {
+    "title": "Front Camera",
+    "summary": "使用前置摄像头拍摄照片",
+    "apk_download_url": "https://f-droid.org/repo/com.flipcamera_1.apk",
+    "code_source_url": "https://bitbucket.org/kingsimmy/frontcamera/src"
+  },
+  {
+    "title": "DetoxDroid: Digital Detoxing as Your New Default",
+    "summary": "Get rid of attention-grabbing and manipulative features.",
+    "apk_download_url": "https://f-droid.org/repo/com.flx_apps.digitaldetox_20006.apk",
+    "code_source_url": "https://github.com/flxapps/DetoxDroid",
+    "codes": [
+      "Kotlin",
+      "Java",
+      "Other"
+    ]
+  },
+  {
+    "title": "DankChat",
+    "summary": "一个能在 Twitch.tv 上聊天的简单应用",
+    "apk_download_url": "https://f-droid.org/repo/com.flxrs.dankchat_31001.apk",
+    "code_source_url": "https://github.com/flex3r/DankChat",
+    "codes": [
+      "Kotlin"
+    ]
+  },
+  {
+    "title": "Snapdrop PairDrop 安卓版",
+    "summary": "Snapdrop：在您所有设备间无缝传输文件",
+    "apk_download_url": "https://f-droid.org/repo/com.fmsys.snapdrop_44.apk",
+    "code_source_url": "https://github.com/fm-sys/snapdrop-android",
+    "codes": [
+      "Java",
+      "JavaScript",
+      "Python",
+      "Dockerfile"
+    ]
+  },
+  {
+    "title": "Suntimes Calendars",
+    "summary": "A calendar provider add-on for Suntimes.",
+    "apk_download_url": "https://f-droid.org/repo/com.forrestguice.suntimescalendars_19.apk",
+    "code_source_url": "https://github.com/forrestguice/SuntimesCalendars",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Suntimes",
+    "summary": "日光与月光时间（和闹钟）",
+    "apk_download_url": "https://f-droid.org/repo/com.forrestguice.suntimeswidget_118.apk",
+    "code_source_url": "https://github.com/forrestguice/SuntimesWidget",
+    "codes": [
+      "unknown"
+    ]
+  },
+  {
+    "title": "Acode editor - Android code editor",
+    "summary": "A lightweight but powerful text/code editor.",
+    "apk_download_url": "https://f-droid.org/repo/com.foxdebug.acode_955.apk",
+    "code_source_url": "https://github.com/deadlyjack/Acode",
+    "codes": [
+      "JavaScript",
+      "Java",
+      "SCSS",
+      "CSS",
+      "Handlebars",
+      "HTML",
+      "Shell"
+    ]
+  },
+  {
+    "title": "AndrOBD GpsProvider",
+    "summary": "Plugin extension for AndrOBD to provide mobile device's GPS data to AndrOBD",
+    "apk_download_url": "https://f-droid.org/repo/com.fr3ts0n.androbd.plugin.gpsprovider_10101.apk",
+    "code_source_url": "https://github.com/fr3ts0n/AndrOBD-Plugin",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "AndrOBD MQTTPublisher",
+    "summary": "Plugin extension for AndrOBD to publish OBD measurements to MQTT home automation",
+    "apk_download_url": "https://f-droid.org/repo/com.fr3ts0n.androbd.plugin.mqtt_10101.apk",
+    "code_source_url": "https://github.com/fr3ts0n/AndrOBD-Plugin",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "AndrOBD SensorProvider",
+    "summary": "Plugin extension for AndrOBD to provide mobile device's accelerometer sensor dat",
+    "apk_download_url": "https://f-droid.org/repo/com.fr3ts0n.androbd.plugin.sensorprovider_10101.apk",
+    "code_source_url": "https://github.com/fr3ts0n/AndrOBD-Plugin",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "AndrOBD",
+    "summary": "连接到汽车的 OBD 系统",
+    "apk_download_url": "https://f-droid.org/repo/com.fr3ts0n.ecu.gui.androbd_20614.apk",
+    "code_source_url": "https://github.com/fr3ts0n/AndrOBD",
+    "codes": [
+      "Java",
+      "Other"
+    ]
+  },
+  {
+    "title": "StageFever",
+    "summary": "显示舞台笔记、AMP/效果设置等",
+    "apk_download_url": "https://f-droid.org/repo/com.fr3ts0n.stagefever_10200.apk",
+    "code_source_url": "https://github.com/fr3ts0n/StageFever",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Brainf",
+    "summary": "Interpreter for the ‘Brainf’ programming language",
+    "apk_download_url": "https://f-droid.org/repo/com.fredhappyface.brainf_20240826.apk",
+    "code_source_url": "https://github.com/fredhappyface/android.brainf",
+    "codes": [
+      "Kotlin",
+      "Brainfuck"
+    ]
+  },
+  {
+    "title": "EweSticker",
+    "summary": "EweSticker: Sticker Keyboard for using custom stickers in messaging",
+    "apk_download_url": "https://f-droid.org/repo/com.fredhappyface.ewesticker_20250209.apk",
+    "code_source_url": "https://github.com/fredhappyface/android.EweSticker",
+    "codes": [
+      "Kotlin"
+    ]
+  },
+  {
+    "title": "Monkeyboard Keystone Radio",
+    "summary": "Monkeyboard FM & DAB/DAB+ 收音机界面",
+    "apk_download_url": "https://f-droid.org/repo/com.freshollie.monkeyboard.keystoneradio_116.apk",
+    "code_source_url": "https://github.com/freshollie/monkeyboard-radio-android",
+    "codes": [
+      "Java",
+      "Other"
+    ]
+  },
+  {
+    "title": "Cuscon",
+    "summary": "This icon pack adds variety and dynamism to your Home screen",
+    "apk_download_url": "https://f-droid.org/repo/com.froxot.cuscon.foss_4045.apk",
+    "code_source_url": "https://github.com/MiepHD/cuscon",
+    "codes": [
+      "Python",
+      "Shell",
+      "Java"
+    ]
+  },
+  {
+    "title": "K-9 Mail",
+    "summary": "功能齐全的电子邮件客户端",
+    "apk_download_url": "https://f-droid.org/repo/com.fsck.k9_39020.apk",
+    "code_source_url": "https://github.com/thunderbird/thunderbird-android",
+    "codes": [
+      "Kotlin",
+      "Java",
+      "Other"
+    ]
+  },
+  {
+    "title": "Diolinux",
+    "summary": "查看 www.diolinux.com.br",
+    "apk_download_url": "https://f-droid.org/repo/com.fullscreen_2.apk",
+    "code_source_url": "https://github.com/renancunha33/DiolinuxApp",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Aurora",
+    "summary": "Non-official Library Genesis mobile client.",
+    "apk_download_url": "https://f-droid.org/repo/com.funkymuse.aurora_4.apk",
+    "code_source_url": "https://github.com/FunkyMuse/Aurora",
+    "codes": [
+      "Kotlin"
+    ]
+  },
+  {
+    "title": "MedTimer",
+    "summary": "具有完全离线隐私的用药提醒和历史记录",
+    "apk_download_url": "https://f-droid.org/repo/com.futsch1.medtimer_98.apk",
+    "code_source_url": "https://github.com/Futsch1/medTimer",
+    "codes": [
+      "Java",
+      "Kotlin",
+      "Other"
+    ]
+  },
+  {
+    "title": "Reservator",
+    "summary": "查看会议室是否可用",
+    "apk_download_url": "https://f-droid.org/repo/com.futurice.android.reservator_21.apk",
+    "code_source_url": "https://github.com/futurice/meeting-room-tablet",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Fancy Places",
+    "summary": "存储您的 FancyPlaces （地理书签）",
+    "apk_download_url": "https://f-droid.org/repo/com.gabm.fancyplaces_9.apk",
+    "code_source_url": "https://github.com/gabm/FancyPlaces",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Tap 'n' Turn",
+    "summary": "在应用屏幕方向之前确认",
+    "apk_download_url": "https://f-droid.org/repo/com.gabm.screenrotationcontrol_13.apk",
+    "code_source_url": "https://github.com/gabm/TapAndTurn",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "ReLaunchX",
+    "summary": "eInk/电子书设备的启动器",
+    "apk_download_url": "https://f-droid.org/repo/com.gacode.relaunchx_200106000.apk",
+    "code_source_url": "https://github.com/Leszek111/ReLaunchX",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "gaika",
+    "summary": "Application for the separation of waste",
+    "apk_download_url": "https://f-droid.org/repo/com.gaika.bilketa_19.apk",
+    "code_source_url": "https://gitlab.com/josuigoa/gaika_android"
+  },
+  {
+    "title": "Aeon's End",
+    "summary": "棋盘游戏 Aeon's End 的非官方市场设置随机发生器",
+    "apk_download_url": "https://f-droid.org/repo/com.games.boardgames.aeonsend_1.apk",
+    "code_source_url": "https://github.com/JanSvoboda/aeonsend-randomizer",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "SimpleAppDowngrader [ROOT]",
+    "summary": "Downgrades installed apps with an apk-file",
+    "apk_download_url": "https://f-droid.org/repo/com.garyodernichts.downgrader_2.apk",
+    "code_source_url": "https://github.com/GaryOderNichts/SimpleAppDowngrader",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "MHWorld Database",
+    "summary": "Gathering Hall Studios is back with an all-new app for Monster Hunter World!",
+    "apk_download_url": "https://f-droid.org/repo/com.gatheringhallstudios.mhworlddatabase_23.apk",
+    "code_source_url": "https://github.com/gatheringhallstudios/MHWorldDatabase",
+    "codes": [
+      "Kotlin",
+      "Java",
+      "Ruby"
+    ]
+  },
+  {
+    "title": "arXiv eXplorer - Mobile App for arXiv.org",
+    "summary": "Browse, search, and download arXiv articles with arXiv eXplorer!",
+    "apk_download_url": "https://f-droid.org/repo/com.gbeatty.arxiv_39.apk",
+    "code_source_url": "https://github.com/GarrettBeatty/arXiv-eXplorer",
+    "codes": [
+      "JavaScript",
+      "Java",
+      "CSS",
+      "Ruby"
+    ]
+  },
+  {
+    "title": "Geekttrss",
+    "summary": "带透明离线模式的 Tiny Tiny RSS 阅读器",
+    "apk_download_url": "https://f-droid.org/repo/com.geekorum.ttrss.free_1068249.apk",
+    "code_source_url": "https://github.com/fbarthelery/geekttrss",
+    "codes": [
+      "Kotlin",
+      "Other"
+    ]
+  },
+  {
+    "title": "MTG Familiar",
+    "summary": "游戏 MTG 的工具",
+    "apk_download_url": "https://f-droid.org/repo/com.gelakinetic.mtgfam_94.apk",
+    "code_source_url": "https://github.com/AEFeinstein/mtg-familiar",
+    "codes": [
+      "HTML",
+      "Java",
+      "POV-Ray SDL"
+    ]
+  },
+  {
+    "title": "ActivityForceNewTask",
+    "summary": "强制在新任务中打开活动的 Xposed 模块",
+    "apk_download_url": "https://f-droid.org/repo/com.germainz.activityforcenewtask_24.apk",
+    "code_source_url": "https://github.com/GermainZ/ActivityForceNewTask",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Identiconizer!",
+    "summary": "Identicons for your contacts",
+    "apk_download_url": "https://f-droid.org/repo/com.germainz.identiconizer_11.apk",
+    "code_source_url": "https://github.com/GermainZ/Identiconizer",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Your very own Sun!",
+    "summary": "动态壁纸",
+    "apk_download_url": "https://f-droid.org/repo/com.ghisguth.sun_2.apk",
+    "code_source_url": "https://github.com/ghisguth/sunlight/tree/HEAD/sun",
+    "codes": []
+  },
+  {
+    "title": "Ghost Commander",
+    "summary": "双面板文件管理器",
+    "apk_download_url": "https://f-droid.org/repo/com.ghostsq.commander_470.apk",
+    "code_source_url": "https://sourceforge.net/p/ghostcommander/svn/HEAD/tree/"
+  },
+  {
+    "title": "MHGU Database",
+    "summary": "广泛全面的怪物猎人世代参考",
+    "apk_download_url": "https://f-droid.org/repo/com.ghstudios.android.mhgendatabase_21.apk",
+    "code_source_url": "https://github.com/gatheringhallstudios/MHGenDatabase",
+    "codes": [
+      "Kotlin",
+      "Java"
+    ]
+  },
+  {
+    "title": "DNS Hero",
+    "summary": "Inspect DNS zones like a superhero",
+    "apk_download_url": "https://f-droid.org/repo/com.gianlu.dnshero_41.apk",
+    "code_source_url": "https://github.com/devgianlu/DNSHero",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Zandy",
+    "summary": "库助手",
+    "apk_download_url": "https://f-droid.org/repo/com.gimranov.zandy.app_1461.apk",
+    "code_source_url": "https://github.com/ajlyon/zandy",
+    "codes": [
+      "Java",
+      "Kotlin"
+    ]
+  },
+  {
+    "title": "Taswast",
+    "summary": "Amazigh 日历",
+    "apk_download_url": "https://f-droid.org/repo/com.github.aba2l.taswast_1.apk",
+    "code_source_url": "https://gitlab.com/AbA2L/Taswast"
+  },
+  {
+    "title": "Cricket's Alarm",
+    "summary": "宠物用药提醒",
+    "apk_download_url": "https://f-droid.org/repo/com.github.alijc.cricketsalarm_2.apk",
+    "code_source_url": "https://github.com/alijc/CricketsAlarm",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Noice：自然平静的噪音",
+    "summary": "通过自然平静的噪音集中注意力、冥想和放松。",
+    "apk_download_url": "https://f-droid.org/repo/com.github.ashutoshgngwr.noice_72.apk",
+    "code_source_url": "https://github.com/trynoice/android-app",
+    "codes": [
+      "Kotlin",
+      "Other"
+    ]
+  },
+  {
+    "title": "10-bit Clock Widget",
+    "summary": "A beautiful BCD clock for your home screen",
+    "apk_download_url": "https://f-droid.org/repo/com.github.ashutoshgngwr.tenbitclockwidget_221.apk",
+    "code_source_url": "https://github.com/ashutoshgngwr/10-bitClockWidget",
+    "codes": [
+      "Java",
+      "HTML",
+      "Ruby"
+    ]
+  },
+  {
+    "title": "Binaural Beats",
+    "summary": "冥想助手",
+    "apk_download_url": "https://f-droid.org/repo/com.github.axet.binauralbeats_160.apk",
+    "code_source_url": "https://gitlab.com/axet/android-binaural-beats"
+  },
+  {
+    "title": "Darkness Immunity",
+    "summary": "黑暗免疫数字护身符",
+    "apk_download_url": "https://f-droid.org/repo/com.github.axet.darknessimmunity_28.apk",
+    "code_source_url": "https://gitlab.com/axet/android-darkness-immunity"
+  },
+  {
+    "title": "Hourly Reminder",
+    "summary": "提醒你几个小时过去了",
+    "apk_download_url": "https://f-droid.org/repo/com.github.axet.hourlyreminder_477.apk",
+    "code_source_url": "https://gitlab.com/axet/android-hourly-reminder/tree/HEAD"
+  },
+  {
+    "title": "Media Merger",
+    "summary": "合并媒体文件，开源",
+    "apk_download_url": "https://f-droid.org/repo/com.github.axet.mover_130.apk",
+    "code_source_url": "https://gitlab.com/axet/android-media-merger/tree/HEAD"
+  },
+  {
+    "title": "SMS Gate",
+    "summary": "将所有短信备份到 IMAP 服务器或本地文件夹",
+    "apk_download_url": "https://f-droid.org/repo/com.github.axet.smsgate_275.apk",
+    "code_source_url": "https://gitlab.com/axet/android-sms-gate/tree/HEAD"
+  },
+  {
+    "title": "ToneGenerator.class",
+    "summary": "ToneGenerator 类预览应用，开源",
+    "apk_download_url": "https://f-droid.org/repo/com.github.axet.tonegenerator_18.apk",
+    "code_source_url": "https://gitlab.com/axet/android-tone-generator/tree/HEAD"
+  },
+  {
+    "title": "Cache Cleaner",
+    "summary": "Clean cache of installed user and system apps using Accessibility",
+    "apk_download_url": "https://f-droid.org/repo/com.github.bmx666.appcachecleaner_107.apk",
+    "code_source_url": "https://github.com/bmx666/android-appcachecleaner",
+    "codes": [
+      "Kotlin",
+      "Java"
+    ]
+  },
+  {
+    "title": "CEToolbox",
+    "summary": "医疗工具",
+    "apk_download_url": "https://f-droid.org/repo/com.github.cetoolbox_16.apk",
+    "code_source_url": "https://github.com/cetoolbox/cetoolbox",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "BMI Calculator",
+    "summary": "Simple BMI calculator",
+    "apk_download_url": "https://f-droid.org/repo/com.github.characterdog.bmicalculator_3.apk",
+    "code_source_url": "https://github.com/characterdog/bmi-calculator",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "屏幕截图磁贴 (NoRoot)",
+    "summary": "从快速设置面板快速截取屏幕截图",
+    "apk_download_url": "https://f-droid.org/repo/com.github.cvzi.screenshottile_128.apk",
+    "code_source_url": "https://github.com/cvzi/ScreenshotTile",
+    "codes": [
+      "Kotlin",
+      "Java",
+      "Python"
+    ]
+  },
+  {
+    "title": "WallpaperExport",
+    "summary": "Export the current and the default wallpaper",
+    "apk_download_url": "https://f-droid.org/repo/com.github.cvzi.wallpaperexport_7.apk",
+    "code_source_url": "https://github.com/cvzi/WallpaperExport",
+    "codes": [
+      "Kotlin",
+      "HTML"
+    ]
+  },
+  {
+    "title": "Hangman",
+    "summary": "英语刽子手游戏",
+    "apk_download_url": "https://f-droid.org/repo/com.github.darthjoey91.hangman_4.apk",
+    "code_source_url": "https://github.com/darthjoey91/Hangman-Android",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "dandelion*",
+    "summary": "diaspora* social network client",
+    "apk_download_url": "https://f-droid.org/repo/com.github.dfa.diaspora_android_46.apk",
+    "code_source_url": "https://github.com/gsantner/dandelion",
+    "codes": [
+      "Java",
+      "Makefile"
+    ]
+  },
+  {
+    "title": "Isotopes",
+    "summary": "同位素信息",
+    "apk_download_url": "https://f-droid.org/repo/com.github.egonw.isotopes_2.apk",
+    "code_source_url": "https://github.com/chemicalappspace/Isotopes",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Notification Cron",
+    "summary": "Scheduling recurring notifications on your phone",
+    "apk_download_url": "https://f-droid.org/repo/com.github.fi3te.notificationcron_26010600.apk",
+    "code_source_url": "https://github.com/fi3te/NotificationCron",
+    "codes": [
+      "Kotlin",
+      "Java"
+    ]
+  }
+]

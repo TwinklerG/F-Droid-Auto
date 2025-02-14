@@ -1,4 +1,7 @@
+import axios from "axios";
 import { Builder, Browser, By } from "selenium-webdriver";
+import fs from "fs";
+import { URL } from "url";
 
 export const getFdroidInfo = async (packageName) => {
   let driver = await new Builder().forBrowser(Browser.CHROME).build();
@@ -20,6 +23,31 @@ export const getFdroidInfo = async (packageName) => {
   download = await download.findElement(By.linkText("下载 APK"));
   ret.apk_download_url = await download.getAttribute("href");
 
+  try {
+    console.log("Downloading:", ret.apk_download_url);
+    const filePath =
+      "apks/" + URL.parse(ret.apk_download_url).pathname.split("/").pop();
+    let response = await axios({
+      url: ret.apk_download_url,
+      method: "GET",
+      responseType: "stream",
+      timeout: 10000, // 10s
+      headers: { "User-Agent": "Node.js" }, // 可选请求头
+    });
+    if (
+      fs.existsSync(filePath) &&
+      fs.readFileSync(filePath).length === Number(response.headers["content-length"])
+    ) {
+      console.log(`${filePath} already exists.`);
+    } else {
+      const writer = fs.createWriteStream(filePath);
+      response.data.pipe(writer);
+      console.log(`Downloaded to ${filePath}`);
+    }
+  } catch (e) {
+    console.log("Download apk Error:", e);
+  }
+
   let code_source = await driver.findElement(By.linkText("源代码"));
   ret.code_source_url = await code_source.getAttribute("href");
 
@@ -38,7 +66,7 @@ export const getFdroidInfo = async (packageName) => {
         );
         ret.codes.push(await code.getText());
       }
-    } catch (e) {
+    } catch {
       ret.codes = ["unknown"];
     }
   }

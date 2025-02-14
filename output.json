@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Isotopes",
+    "summary": "同位素信息",
+    "apk_download_url": "https://f-droid.org/repo/com.github.egonw.isotopes_2.apk",
+    "code_source_url": "https://github.com/chemicalappspace/Isotopes",
+    "codes": [
+      "Java"
+    ]
+  },
+  {
+    "title": "Notification Cron",
+    "summary": "Scheduling recurring notifications on your phone",
+    "apk_download_url": "https://f-droid.org/repo/com.github.fi3te.notificationcron_26010600.apk",
+    "code_source_url": "https://github.com/fi3te/NotificationCron",
+    "codes": [
+      "Kotlin",
+      "Java"
+    ]
+  }
+]
